@@ -1,16 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package ejerciciosargprograma;
-
+package ejerciciosargprograma.clase1;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Rodrigo
- */
-public class ejercicio1d {
+class ejercicio1d {
     public static void main(String[] args) {
         // TODO code application logic here
 

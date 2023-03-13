@@ -8,7 +8,7 @@ class ejercicio1d {
         int numeroInicio = 5;
         int numeroFin = 14;
         String parImpar = JOptionPane.showInputDialog("Presione 'p' para mostrar los numeros pares o 'i' para mostrar los impares");
-        for (int i = 14; i >= numeroInicio; i--) {
+        for (int i = numeroFin; i >= numeroInicio; i--) {
             
 
             if (parImpar.equals("p")) {
